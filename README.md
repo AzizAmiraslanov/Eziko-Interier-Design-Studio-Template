@@ -1,9 +1,9 @@
 /* 
 
-In this folder, Eziko Design Studio Template. Use many Pluging in this site template.
+In this folder, Eziko Interier Design Studio Template. Use many Plugin in this site template.
 Thanks for uploading.
 
             ..........::::::::::  Aziz Amiraslanov  ::::::::::..........
 
 */# Template-3
-# Template-2-Eziko-Design-Studio
+# Template-3-Eziko-Interier-Design-Studio
